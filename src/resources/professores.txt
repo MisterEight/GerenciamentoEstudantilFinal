@@ -1,0 +1,2 @@
+rany,30,POO
+ma,40,dados
