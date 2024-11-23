@@ -8,9 +8,6 @@ O Sistema de Gerenciamento Estudantil é um aplicativo Java desenvolvido para ge
 
 O projeto utiliza Java Swing para a interface gráfica e manipulação de arquivos para persistência de dados.
 
-# Estrutura do Projeto
-
-
 ## Descrição dos Diretórios
 
 ### `controllers/`
@@ -29,6 +26,7 @@ Pacote que contém as classes de modelo representando os dados principais:
 
 ### `resources/`
 Diretório onde ficam os arquivos de dados utilizados para persistência:
+- **vinculacoes.txt**: Armazena informações sobre as vinculações cadastradas.
 - **alunos.txt**: Armazena informações sobre os alunos cadastrados.
 - **professores.txt**: Armazena informações sobre os professores cadastrados.
 - **cursos.txt**: Armazena informações sobre os cursos criados.
